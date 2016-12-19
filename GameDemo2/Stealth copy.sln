@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1D2F6F4E-BA0B-D379-3687-65ECD6CA6810}") = "Stealth copy", "Assembly-CSharp.csproj", "{60617CD5-1EE7-97C5-0C0D-EEB033C0BEB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60617CD5-1EE7-97C5-0C0D-EEB033C0BEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60617CD5-1EE7-97C5-0C0D-EEB033C0BEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60617CD5-1EE7-97C5-0C0D-EEB033C0BEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60617CD5-1EE7-97C5-0C0D-EEB033C0BEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
